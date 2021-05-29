@@ -94,7 +94,7 @@ If you discover any security related issues, please email dpassarelli@dpassarell
 
 ## Credits
 
-- [Liam Hammett](https://github.com/dapasa)
+- [Daniel Passarelli](https://github.com/dapasa)
 - [All Contributors](../../contributors)
 
 ## License
