@@ -2,7 +2,7 @@
 
 namespace Tests\Unit;
 
-use ImLiam\EnvironmentSetCommand\EnvironmentSetCommand;
+use dapasa\EnvironmentSetCommand\EnvironmentSetCommand;
 use InvalidArgumentException;
 use PHPUnit\Framework\TestCase;
 use Tests\ReflectionHelper;

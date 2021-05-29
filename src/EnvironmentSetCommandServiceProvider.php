@@ -1,6 +1,6 @@
 <?php
 
-namespace ImLiam\EnvironmentSetCommand;
+namespace dapasa\EnvironmentSetCommand;
 
 use Illuminate\Support\ServiceProvider;
 
