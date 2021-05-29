@@ -1,0 +1,9 @@
+/.idea/
+/nbproject/
+/build
+/composer.lock
+/docs
+/vendor
+/coverage
+/SCRATCH.md
+/REFACTORING.md
